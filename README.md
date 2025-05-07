@@ -6,8 +6,7 @@ A simple tower defence game
 
 You must have jdk8, Scala 3.1.3 and Scala sbt installed
 
-Open a cmd in the project root
-run
+Open a cmd in the project root and run
 
 ```
 $ sbt
@@ -18,7 +17,7 @@ $ run
 
 Ohjelma on yksinkertainen tornipuolustuspeli, jossa pelaaja pyrkii estämään vihollisia pääsemästä reitin
 loppuun. Pelaaja saa rahaa tuhoamalla vihollisia, ja saadulla rahalla pelaaja voi asettaa lisää torneja.
-Vihollisten määrä ja vahvuus kasvavat jokaisella kierroksella. Peli on toteutettu vaativalla -tasolla.
+Vihollisten määrä ja vahvuus kasvavat jokaisella kierroksella.
 
 # Käyttöohje
 
