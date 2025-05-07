@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 67 products, 12 sources, 3 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/components/GameObject.scala, ${BASE}/src/main/scala/components/GameMap.scala, ${BASE}/src/main/scala/components/Projectile.scala, ${BASE}/src/main/scala/components/Enemy.scala, ${BASE}/src/main/scala/components/Tile.scala, ${BASE}/src/main/scala/Main.scala, ${BASE}/src/main/scala/components/Game.scala, ${BASE}/src/main/scala/util/GridPos.scala, ${BASE}/src/main/scala/util/CompassDir.scala, ${BASE}/src/main/scala/components/Tower.scala, ${BASE}/src/main/scala/components/MultiLineRadioButton.scala, ${BASE}/src/main/scala/util/FileIO.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
