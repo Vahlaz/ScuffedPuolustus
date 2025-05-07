@@ -4,7 +4,7 @@ A simple tower defence game
 
 # Running the game
 
-You must have jdk8, Scala 3.1.3 and Scala sbt installed
+You must have jdk8, Scala ^3.1.3 and Scala sbt installed
 
 Open a cmd in the project root and run
 
